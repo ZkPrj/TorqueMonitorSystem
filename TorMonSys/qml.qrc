@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Display/image/360_display.jpg</file>
+        <file>Display/image/back_color1.jpg</file>
+        <file>Display/image/bar.png</file>
+        <file>Display/image/close.jpg</file>
+        <file>Display/image/close.png</file>
+        <file>Display/image/computer1.jpg</file>
+        <file>Display/image/computer1.png</file>
+        <file>Display/image/computer_conncetion.jpg</file>
+        <file>Display/image/nextPage.png</file>
+        <file>Display/image/prePage.png</file>
+        <file>Display/image/waiting3.gif</file>
+        <file>Display/image/wifi1.jpg</file>
+        <file>Display/image/wifi1.png</file>
+        <file>Display/CanvasDraw.qml</file>
+        <file>Display/File_Download.qml</file>
+        <file>Display/Graph1.qml</file>
+        <file>Display/Historydata_Choose.qml</file>
+        <file>Display/Historydata_Display.qml</file>
+        <file>Display/InitialPage.qml</file>
+        <file>Display/Justify_Test.qml</file>
+        <file>Display/main.qml</file>
+        <file>Display/Modifydata_Display.qml</file>
+        <file>Display/ParameterChooseBox.qml</file>
+        <file>Display/ParameterPreview.qml</file>
+        <file>Display/ParameterSetButton.qml</file>
+        <file>Display/ParametersSet.qml</file>
+        <file>Display/ParameterTextInput.qml</file>
+        <file>Display/ParameterTextInputUnit.qml</file>
+        <file>Display/Printdata_Display.qml</file>
+        <file>Display/RealtimeMonitor.qml</file>
+        <file>Display/Test.qml</file>
+        <file>Display/Test2.qml</file>
+        <file>Display/TitleButtons.qml</file>
+        <file>Display/WireChoose.qml</file>
+        <file>main.qml</file>
+        <file>ArgView.qml</file>
+        <file>Tst.qml</file>
+    </qresource>
+</RCC>

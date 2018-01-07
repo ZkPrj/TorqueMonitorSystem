@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\GlobalData.o
+./release\SerialComm.o
+./release\IcdRelover.o
+./release\UperIcdRelover.o
+./release\TorMonitorCore.o
+./release\TorMonitorUi.o
+./release\DbOper.o
+./release\qrc_qml.o
+./release\moc_IcdRelover.o
+./release\moc_UperIcdRelover.o
+./release\moc_TorMonitorCore.o
+./release\moc_TorMonitorUi.o
+);

@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\SerialComm.o
+./release\DataWraper.o
+./release\MissionCore.o
+./release\GlobalData.o
+./release\DbOper.o
+./release\TorSysUiLayer.o
+./release\qrc_qml.o
+./release\moc_DataWraper.o
+./release\moc_MissionCore.o
+./release\moc_TorSysUiLayer.o
+);

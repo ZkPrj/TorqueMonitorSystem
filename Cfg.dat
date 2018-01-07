@@ -1,0 +1,14 @@
+{
+      "UperPort": 38400,
+	  "UperParity": 0,
+	  "UperDataBit": 8,
+	  "UperStopBit": 1,
+	  "UperFlowCtl": 0,
+	  "UperTimeOut": 1000,
+      "LowerPort": 115200,
+	  "LowerParity": 0,
+	  "LowerDataBit": 8,
+	  "LowerStopBit": 1,
+	  "LowerFlowCtl": 0, 
+      "LowerTimeOut": 1000
+  }
